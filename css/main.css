@@ -2,6 +2,33 @@
   text-align: right;
 }
 .nav-spacing {
-  margin-left: 10px;
+  margin-left: 10px; text-decoration: none; color: #00F;
+}
+.image-link {
+  text-decoration: none;
+}
+.index-quote {
+  padding: 2px 20px; background: #F0F0F5;
+}
+.book-report-header {
+  text-align: center; margin: 0 0 80px;
+}
+.image-center {
+  display: block; margin: 0 auto;
+}
+.book-report-container {
+  width: 500px; margin: 20px auto; padding: 30px; background-color: #FAFAFA;
+}
+.book-cover {
+  float: left; margin: 0 40px 20px 0;
+}
+.book-title {
+  font-style: italic; font-size: 20px;
+}
+.table-data {
+  padding: 20px;
+}
+.book-report-quote {
+  font-style: normal; font-size: 24px; font-weight: bold; color: #000;
 }
 
