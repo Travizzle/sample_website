@@ -10,3 +10,34 @@
 .nav-menu {
   text-align: right;
 }
+.image-link {
+  text-decoration: none;
+}
+.moby-header {
+  text-align: center;
+  margin: 0px 0px 80px;
+}
+.moby-image-whale {
+  display: block;
+  margin: 0 auto;
+}
+.moby-report {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.moby-image-book {
+  float: left;
+  margin: 0px 40px 0px 0px;
+}
+.report-blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.report-span {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #f00;
+}
